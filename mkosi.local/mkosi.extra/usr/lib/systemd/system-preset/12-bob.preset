@@ -1,0 +1,2 @@
+enable thermald.service
+enable bluetooth.service
