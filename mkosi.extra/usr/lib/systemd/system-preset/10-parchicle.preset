@@ -1,0 +1,4 @@
+# Enable monthly btrfs scrubbing for root and home
+enable btrfs-scrub@.timer - home
+
+enable nftables.service
